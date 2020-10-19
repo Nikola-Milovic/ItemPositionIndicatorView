@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="progress_primary">#fff</color>-->
+    <color name="currently_selected">@color/white</color>
+    <color name="not_selected">#cdcdcd</color>
+
+
+    <color name = "light_gray">#cdcdcd </color>
+    <color name = "white">#FFFFFF </color>
+</resources>
