@@ -31,6 +31,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
 
-        indicators.setNumberOfIndicators(5);
+       // indicators.setNumberOfIndicators(5);
     }
 }

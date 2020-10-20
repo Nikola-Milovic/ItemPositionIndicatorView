@@ -11,6 +11,7 @@
 
     <com.nikolam.library.ItemPositionIndicatorView
         android:id="@+id/indicator"
+        app:indicator_count = "3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
